@@ -17,7 +17,7 @@ This project uses a dataset containing labeled audio samples for various spoken 
 4. **Splitting**: The dataset is split into training, validation, and test sets to allow for model evaluation and avoid overfitting.
 
 ## Instructions for Viewing the Code
-You can access and run this notebook directly on Kaggle, which offers a more streamlined experience without requiring local installation. You can view it here: [Kaggle Notebook - Speech Command Recognition](https://www.kaggle.com/code/fareshazem/notebookb3153ff14a/edit#Define-and-Apply-Data-Augmentation-Functions-for-Audio).
+You can access and run this notebook directly on Kaggle, which offers a more streamlined experience without requiring local installation. You can view it here: [Kaggle Notebook - Speech Command Recognition](https://www.kaggle.com/code/fareshazem/speech-command-recognition-using-anns).
 
 Alternatively, if you prefer running the notebook locally:
 1. Clone the repository:
