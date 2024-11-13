@@ -22,7 +22,7 @@ You can access and run this notebook directly on Kaggle, which offers a more str
 Alternatively, if you prefer running the notebook locally:
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/FaresHazem/Speech-Command-Recognition-using-ANNs
     ```
 2. Open the Jupyter Notebook in any environment supporting Jupyter, such as Jupyter Lab or Jupyter Notebook.
 
